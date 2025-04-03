@@ -38,24 +38,24 @@ export const DATA = {
       // },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://dub.sh/dillion-linkedin",
+        url: "https://www.linkedin.com/in/yogeshjm/",
         icon: Icons.linkedin,
 
         navbar: true,
       },
-      X: {
-        name: "X",
-        url: "https://dub.sh/dillion-twitter",
-        icon: Icons.x,
+      // X: {
+      //   name: "X",
+      //   url: "https://dub.sh/dillion-twitter",
+      //   icon: Icons.x,
 
-        navbar: true,
-      },
-      Youtube: {
-        name: "Youtube",
-        url: "https://dub.sh/dillion-youtube",
-        icon: Icons.youtube,
-        navbar: true,
-      },
+      //   navbar: true,
+      // },
+      // Youtube: {
+      //   name: "Youtube",
+      //   url: "https://dub.sh/dillion-youtube",
+      //   icon: Icons.youtube,
+      //   navbar: true,
+      // },
       email: {
         name: "Send Email",
         url: "#",
@@ -73,7 +73,7 @@ export const DATA = {
       href: "https://www.bugcrowd.com/",
       location: "Remote",
       title: "Senior Software Engineer",
-      logoUrl: "/shopify.svg",
+      logoUrl: "/bugcrowd.jpeg",
       start: "March 2022",
       end: "current",
       description:
@@ -85,7 +85,7 @@ export const DATA = {
       badges: [],
       location: "Bangalore, IN",
       title: "Software Engineer II",
-      logoUrl: "/nvidia.png",
+      logoUrl: "/cerner.jpeg",
       start: "November 2016",
       end: "March 2022",
       description:
@@ -97,7 +97,7 @@ export const DATA = {
       badges: [],
       location: "Bangalore, IN",
       title: "Software Developer",
-      logoUrl: "/lime.svg",
+      logoUrl: "/mobveus.jpeg",
       start: "January 2016",
       end: "October 2016",
       description:
